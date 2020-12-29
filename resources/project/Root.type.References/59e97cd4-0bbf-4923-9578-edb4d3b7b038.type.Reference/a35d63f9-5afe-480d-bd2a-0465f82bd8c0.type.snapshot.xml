@@ -1,0 +1,155 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Info>
+    <MetadataNode>
+        <path value="ProjectData:type:Info">
+            <node name="Info">
+                <entry value="Model1" key="Name" />
+            </node>
+        </path>
+        <path value="Root:type:Categories">
+            <path value="FileClassCategory:type:Category">
+                <node name="Info">
+                    <entry value="None" key="DataType" />
+                    <entry value="Classification" key="Name" />
+                    <entry value="1" key="ReadOnly" />
+                    <entry value="1" key="SingleValued" />
+                </node>
+                <path value="artifact:type:Label">
+                    <node name="Info">
+                        <entry value="Artifact" key="Name" />
+                        <entry value="READ_ONLY" key="ReadOnly" />
+                    </node>
+                </path>
+                <path value="convenience:type:Label">
+                    <node name="Info">
+                        <entry value="Convenience" key="Name" />
+                        <entry value="READ_ONLY" key="ReadOnly" />
+                    </node>
+                </path>
+                <path value="derived:type:Label">
+                    <node name="Info">
+                        <entry value="Derived" key="Name" />
+                        <entry value="READ_ONLY" key="ReadOnly" />
+                    </node>
+                </path>
+                <path value="design:type:Label">
+                    <node name="Info">
+                        <entry value="Design" key="Name" />
+                        <entry value="READ_ONLY" key="ReadOnly" />
+                    </node>
+                </path>
+                <path value="none:type:Label">
+                    <node name="Info">
+                        <entry value="None" key="Name" />
+                        <entry value="READ_ONLY" key="ReadOnly" />
+                    </node>
+                </path>
+                <path value="other:type:Label">
+                    <node name="Info">
+                        <entry value="Other" key="Name" />
+                        <entry value="READ_ONLY" key="ReadOnly" />
+                    </node>
+                </path>
+                <path value="test:type:Label">
+                    <node name="Info">
+                        <entry value="Test" key="Name" />
+                        <entry value="READ_ONLY" key="ReadOnly" />
+                    </node>
+                </path>
+            </path>
+        </path>
+        <path value="Root:type:EntryPoints" />
+        <path value="Root:type:Extensions" />
+        <path value="Root:type:Files" />
+        <path value="Root:type:ProjectData" />
+        <path value="Root:type:ProjectPath">
+            <path value="1f0c9967-0e16-4845-97a5-3c8dfe08279f:type:Reference">
+                <node name="Info">
+                    <entry value="Data" key="Ref" />
+                    <entry value="Relative" key="Type" />
+                </node>
+            </path>
+            <path value="409a2b10-6d84-4ca2-838b-785fcd5edb92:type:Reference">
+                <node name="Info">
+                    <entry value="Work" key="Ref" />
+                    <entry value="Relative" key="Type" />
+                </node>
+            </path>
+            <path value="61a6e3cb-b9ef-4c95-8f19-2f45039fdb92:type:Reference">
+                <node name="Info">
+                    <entry value="Documents" key="Ref" />
+                    <entry value="Relative" key="Type" />
+                </node>
+            </path>
+            <path value="73ab024e-0039-495d-88dc-fea6010e2a65:type:Reference">
+                <node name="Info">
+                    <entry value="Scripts" key="Ref" />
+                    <entry value="Relative" key="Type" />
+                </node>
+            </path>
+            <path value="78ca1074-3eb4-4b6e-b437-6d2bb12a455f:type:Reference">
+                <node name="Info">
+                    <entry value="Requirements" key="Ref" />
+                    <entry value="Relative" key="Type" />
+                </node>
+            </path>
+            <path value="abfe182a-606e-4de8-8aa2-fb1d8570801d:type:Reference">
+                <node name="Info">
+                    <entry value="" key="Ref" />
+                    <entry value="Relative" key="Type" />
+                </node>
+            </path>
+            <path value="d345986a-cdb0-41bb-8acb-301742e74c7e:type:Reference">
+                <node name="Info">
+                    <entry value="Models" key="Ref" />
+                    <entry value="Relative" key="Type" />
+                </node>
+            </path>
+            <path value="dd687368-6860-4451-a23e-13ced838971a:type:Reference">
+                <node name="Info">
+                    <entry value="Tests" key="Ref" />
+                    <entry value="Relative" key="Type" />
+                </node>
+            </path>
+        </path>
+    </MetadataNode>
+    <Files>
+        <File path="Data" value="-1" />
+        <File path="Documents" value="-1" />
+        <File path="Model1.prj" value="fe84b66d" />
+        <File path="Models" value="-1" />
+        <File path="Requirements" value="-1" />
+        <File path="Scripts" value="-1" />
+        <File path="Tests" value="-1" />
+        <File path="Work" value="-1" />
+        <File path="resources/project/Project.xml" value="c576b26a" />
+        <File path="resources/project/ProjectData.type.Info.xml" value="3c3d1c83" />
+        <File path="resources/project/Root.type.Categories/FileClassCategory.type.Category.xml" value="d2dc6b71" />
+        <File path="resources/project/Root.type.Categories/FileClassCategory.type.Category/artifact.type.Label.xml" value="3a808e07" />
+        <File path="resources/project/Root.type.Categories/FileClassCategory.type.Category/convenience.type.Label.xml" value="9fa19c1e" />
+        <File path="resources/project/Root.type.Categories/FileClassCategory.type.Category/derived.type.Label.xml" value="b32f4cc5" />
+        <File path="resources/project/Root.type.Categories/FileClassCategory.type.Category/design.type.Label.xml" value="657f94e3" />
+        <File path="resources/project/Root.type.Categories/FileClassCategory.type.Category/none.type.Label.xml" value="4434695f" />
+        <File path="resources/project/Root.type.Categories/FileClassCategory.type.Category/other.type.Label.xml" value="7716e543" />
+        <File path="resources/project/Root.type.Categories/FileClassCategory.type.Category/test.type.Label.xml" value="eff7b485" />
+        <File path="resources/project/Root.type.Categories/FileClassCategory.type.Category" value="-1" />
+        <File path="resources/project/Root.type.Categories" value="-1" />
+        <File path="resources/project/Root.type.EntryPoints" value="-1" />
+        <File path="resources/project/Root.type.Extensions" value="-1" />
+        <File path="resources/project/Root.type.Files" value="-1" />
+        <File path="resources/project/Root.type.ProjectData" value="-1" />
+        <File path="resources/project/Root.type.ProjectPath/1f0c9967-0e16-4845-97a5-3c8dfe08279f.type.Reference.xml" value="a8d0ec9a" />
+        <File path="resources/project/Root.type.ProjectPath/409a2b10-6d84-4ca2-838b-785fcd5edb92.type.Reference.xml" value="d1115958" />
+        <File path="resources/project/Root.type.ProjectPath/61a6e3cb-b9ef-4c95-8f19-2f45039fdb92.type.Reference.xml" value="d04e4743" />
+        <File path="resources/project/Root.type.ProjectPath/73ab024e-0039-495d-88dc-fea6010e2a65.type.Reference.xml" value="de511e4e" />
+        <File path="resources/project/Root.type.ProjectPath/78ca1074-3eb4-4b6e-b437-6d2bb12a455f.type.Reference.xml" value="cf734eeb" />
+        <File path="resources/project/Root.type.ProjectPath/abfe182a-606e-4de8-8aa2-fb1d8570801d.type.Reference.xml" value="23431c7a" />
+        <File path="resources/project/Root.type.ProjectPath/d345986a-cdb0-41bb-8acb-301742e74c7e.type.Reference.xml" value="288f560d" />
+        <File path="resources/project/Root.type.ProjectPath/dd687368-6860-4451-a23e-13ced838971a.type.Reference.xml" value="a6f7f3e7" />
+        <File path="resources/project/Root.type.ProjectPath" value="-1" />
+        <File path="resources/project/uuid-9235fe91-30aa-4a3f-8947-52b71847fa1a.xml" value="3af507e" />
+        <File path="resources/project" value="-1" />
+        <File path="resources" value="-1" />
+    </Files>
+    <Date value="December 29, 2020 10:28:43 AM" />
+</Info>
